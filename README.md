@@ -110,4 +110,4 @@ A full-stack car rental platform with location autocomplete, Google OAuth, real-
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=weaving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,100:3B4252&height=100&section=footer)
