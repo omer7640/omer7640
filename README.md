@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:2E3440,100:3B4252&height=180&section=header&text=Omer%20Hameed&fontSize=42&fontColor=7dd3fc&fontAlignY=50&desc=Frontend%20Developer&descAlignY=75&descSize=18&descColor=c9d1d9)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Omer%20Hameed&fontSize=48&fontColor=ffffff&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+JavaScript+%7C+Firebase;Shipping+AI-integrated+Web+Apps)](https://git.io/typing-svg)
 
