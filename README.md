@@ -36,7 +36,7 @@ const omer = {
 
 A responsive banking dashboard built with React and Firebase, featuring secure authentication and real-time Firestore data syncing.
 
-[![Bankist](https://github-readme-stats.vercel.app/api/pin/?username=omer7640&repo=bankist-zyx2&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/omer7640/bankist-zyx2)
+[![Bankist](https://github.com/omer7640/Bankist)
 
 | Layer | Technology |
 |---|---|
